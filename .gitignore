@@ -4,7 +4,7 @@
 __pycache__/
 *.pyc
 gurobi.log
-.claude/settings.local.json
+.claude/
 
 # raw downloads (multi-GB; see docs/BLUEPRINT.md and the scripts for sources)
 data_raw/
